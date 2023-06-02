@@ -1,4 +1,4 @@
-![logo](https://github.com/rajhariomsingh/rajhariomsingh/blob/main/resize-16854683441342280908animcoding.jpg)
+![logo](https://github.com/rajhariomsingh/rajhariomsingh/blob/main/animcoding.jpg)
 <h1 align="center">Hey 👋, I'm Hariom singh</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
